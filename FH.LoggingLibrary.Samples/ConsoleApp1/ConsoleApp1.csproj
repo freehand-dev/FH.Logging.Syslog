@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\FH.LoggingLibrary\FH.LoggingLibrary.csproj" />
+    <ProjectReference Include="..\..\FH.LoggingLibrary\FH.LoggingLibrary.csproj" />
   </ItemGroup>
 
 </Project>
